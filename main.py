@@ -55,4 +55,4 @@ async def bj(ctx):
         f"{result}"
     )
 
-bot.run("DAN_TOKEN_BOT_VAO_DAY")
+bot.run("MTUxNjM2MTM0Mjk5NzQ5OTk1Ng.GYCUGI.2feiO6zbOL558NwPMckLkG6WYOaQGF2I_X3F6k")
