@@ -253,4 +253,4 @@ async def untimeout(interaction: discord.Interaction, member: discord.Member):
 # ======================
 # RUN BOT
 # ======================
-bot.run("MTUxNjM2MTM0Mjk5NzQ5OTk1Ng.G2WHS1.AOSnChp_Wjr91JX-cuKOI6cHbXMI6eLYg6gYqg")
+bot.run("MTUxNjM2MTM0Mjk5NzQ5OTk1Ng.GyA43d.6dlasjnj3ylOPlwJkdFPFEw1MnAoz_ApJqYweE")
